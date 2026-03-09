@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=mAR5V-22oA4&list=PLvlkVRRKOYFQHnDhjTmXLEz3HU5WTgOcF&index=2
+
+git rm -r --cached .\data\
