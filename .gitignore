@@ -1,6 +1,8 @@
 data/
 ipea/
+archive/
 __pycache__/
 .env
 venv/
+.venv/
 *.log
